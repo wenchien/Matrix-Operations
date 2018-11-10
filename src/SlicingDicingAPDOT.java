@@ -85,12 +85,12 @@ public class SlicingDicingAPDOT {
 		int[] y = new int[array_length];
 		
 		for (int i = 0; i < x.length; i++) {
-			System.out.println("Enter elements for vector x: ");
+			System.out.println("Enter " + i + "th elements for vector x: ");
 			x[i] = scan.nextInt();
 		}
 		
 		for (int i = 0; i < x.length; i++) {
-			System.out.println("Enter elements for vector y: ");
+			System.out.println("Enter " + i + "th elements for vector y: ");
 			y[i] = scan.nextInt();
 		}
 		
