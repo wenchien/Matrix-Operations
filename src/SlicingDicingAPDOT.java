@@ -95,6 +95,6 @@ public class SlicingDicingAPDOT {
 		}
 		
 		mo = new MatrixOperation();
-		System.out.println(mo.apdot(x, y, 0));
+		System.out.println("Dot Product of the vectors x and y is: " + mo.apdot(x, y, 0));
 	}
 }
