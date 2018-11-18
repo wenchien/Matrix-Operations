@@ -1,4 +1,4 @@
-# Matrix-Operations
+# Matrix Operations & Applications
 Self-Practicing algorithms for various matrix operations. Most of the algorithms will be retrieved from various resources
 
 The following list willl constantly be updated:
